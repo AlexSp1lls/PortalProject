@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Portal1
+  - Portal2
+  - ground
   layers:
   - Default
   - TransparentFX
@@ -11,7 +14,7 @@ TagManager:
   - 
   - Water
   - UI
-  - Fluid
+  - 
   - 
   - 
   - 
@@ -41,9 +44,5 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Fluid
-    uniqueID: 1579299901
-    locked: 0
   m_RenderingLayers:
   - Default
-  - Fluid
